@@ -1,2 +1,3 @@
 # git-practice
-# Learning hot to collab yo
+# Learning how to collab yo
+# Making some changes again
