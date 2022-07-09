@@ -7,4 +7,6 @@
 # making some changes in git hub wensite
 
 # #Include<conio.h>
+
 #include<Stdio.h>
+#include<stdlib.h>
